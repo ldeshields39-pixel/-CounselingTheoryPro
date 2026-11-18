@@ -1,0 +1,1437 @@
+[
+  {
+    "id": "pc-carl-rogers",
+    "theory": "Person-Centered",
+    "term": "Carl Rogers",
+    "question": "Who developed person-centered therapy?",
+    "answer": "Rogers placed the client's lived experience and the therapeutic relationship at the center of counseling."
+  },
+  {
+    "id": "pc-actualizing-tendency",
+    "theory": "Person-Centered",
+    "term": "Actualizing tendency",
+    "question": "What did Rogers call the organism's inherent movement toward growth?",
+    "answer": "Given a supportive environment, a person can develop capacities and move toward a fuller way of living."
+  },
+  {
+    "id": "pc-empathic-understanding",
+    "theory": "Person-Centered",
+    "term": "Empathic understanding",
+    "question": "Which core attitude involves sensing another person's private world while retaining your own perspective?",
+    "answer": "A counselor enters the client's frame of reference and checks how closely their understanding fits."
+  },
+  {
+    "id": "pc-unconditional-positive-regard",
+    "theory": "Person-Centered",
+    "term": "Unconditional positive regard",
+    "question": "Which core attitude is present when care for a client does not depend on meeting a counselor's expectations?",
+    "answer": "The counselor continues to value the person even when discussing a difficult choice or an action that caused harm."
+  },
+  {
+    "id": "pc-therapist-congruence",
+    "theory": "Person-Centered",
+    "term": "Therapist congruence",
+    "question": "Which core attitude describes a counselor being genuine and internally consistent in the relationship?",
+    "answer": "The counselor's awareness, experience and communication fit together. Genuineness still calls for judgment about what serves the client."
+  },
+  {
+    "id": "pc-incongruence",
+    "theory": "Person-Centered",
+    "term": "Incongruence",
+    "question": "A client identifies as endlessly patient and dismisses signs of anger. Which Rogerian concept describes this discrepancy?",
+    "answer": "The person's self-image has little room for an emotion they actually experience."
+  },
+  {
+    "id": "pc-conditions-of-worth",
+    "theory": "Person-Centered",
+    "term": "Conditions of worth",
+    "question": "A child learns that affection comes only after winning. What might the child internalize?",
+    "answer": "Rules about what one must do or become to deserve acceptance can shape self-regard."
+  },
+  {
+    "id": "pc-self-concept",
+    "theory": "Person-Centered",
+    "term": "Self-concept",
+    "question": "Which term describes the organized picture a person holds of who they are?",
+    "answer": "Beliefs such as “I am reliable” can help organize experience and influence which feelings a person notices."
+  },
+  {
+    "id": "pc-ideal-self",
+    "theory": "Person-Centered",
+    "term": "Ideal self",
+    "question": "What term describes the person someone would like to become?",
+    "answer": "The ideal self represents desired qualities. Exploring the distance between present experience and that ideal can clarify distress."
+  },
+  {
+    "id": "pc-organismic-valuing-process",
+    "theory": "Person-Centered",
+    "term": "Organismic valuing process",
+    "question": "Which Rogerian process involves attending to one's lived experience when judging what supports growth?",
+    "answer": "A client might recognize that a prestigious opportunity leaves them persistently disconnected from what matters to them."
+  },
+  {
+    "id": "pc-internal-locus-of-evaluation",
+    "theory": "Person-Centered",
+    "term": "Internal locus of evaluation",
+    "question": "A student chooses a meaningful career despite pressure for prestige. Where are they locating the basis of judgment?",
+    "answer": "The student consults personal values and experience in deciding what fits."
+  },
+  {
+    "id": "pc-external-locus-of-evaluation",
+    "theory": "Person-Centered",
+    "term": "External locus of evaluation",
+    "question": "A trainee asks, “Tell me what I should feel so I can get it right.” What orientation does this suggest?",
+    "answer": "Other people's judgments have become the main standard for assessing the trainee's experience."
+  },
+  {
+    "id": "pc-psychological-contact",
+    "theory": "Person-Centered",
+    "term": "Psychological contact",
+    "question": "What first condition in Rogers's six-condition formulation requires two people to make experiential contact?",
+    "answer": "Both participants must register the relationship in some way for its qualities to affect change."
+  },
+  {
+    "id": "pc-client-perception",
+    "theory": "Person-Centered",
+    "term": "Client perception",
+    "question": "What sixth Rogerian condition is illustrated when a client says, “I actually feel understood and accepted here”?",
+    "answer": "The client must experience at least some of what the counselor is trying to communicate."
+  },
+  {
+    "id": "pc-nondirectivity",
+    "theory": "Person-Centered",
+    "term": "Nondirectivity",
+    "question": "Which stance lets the client determine the direction of exploration while the counselor stays actively engaged?",
+    "answer": "The counselor follows emerging concerns with curiosity and presence and leaves authorship of decisions with the client."
+  },
+  {
+    "id": "pc-reflection-of-feeling",
+    "theory": "Person-Centered",
+    "term": "Reflection of feeling",
+    "question": "“It sounds lonely to carry that by yourself.” Which response is the counselor using?",
+    "answer": "The counselor tentatively names an emotional quality and gives the client room to correct it."
+  },
+  {
+    "id": "pc-paraphrase",
+    "theory": "Person-Centered",
+    "term": "Paraphrase",
+    "question": "Which response briefly restates the substance of one recent client statement in fresh words?",
+    "answer": "A paraphrase checks understanding of content while staying close to what the client actually said."
+  },
+  {
+    "id": "pc-summary",
+    "theory": "Person-Centered",
+    "term": "Summary",
+    "question": "Which listening response gathers several strands of a client's account into a coherent whole?",
+    "answer": "At a transition, the counselor can draw together themes and ask what is missing."
+  },
+  {
+    "id": "pc-clarification",
+    "theory": "Person-Centered",
+    "term": "Clarification",
+    "question": "The counselor asks what “going blank” means for this particular student. Which listening skill is this?",
+    "answer": "The question invites a more precise description before the counselor assumes a shared definition."
+  },
+  {
+    "id": "pc-reflection-of-meaning",
+    "theory": "Person-Centered",
+    "term": "Reflection of meaning",
+    "question": "“Getting that call meant you still had a place in the family.” What is being reflected?",
+    "answer": "The counselor names the personal significance of an event beyond its facts or immediate feelings."
+  },
+  {
+    "id": "pc-therapeutic-silence",
+    "theory": "Person-Centered",
+    "term": "Therapeutic silence",
+    "question": "A client pauses after finding a new word for a feeling. Which response leaves space for further exploration?",
+    "answer": "An attentive pause can allow the next thought to emerge. The counselor remains responsive to signs that the silence feels uncomfortable."
+  },
+  {
+    "id": "pc-immediacy",
+    "theory": "Person-Centered",
+    "term": "Immediacy",
+    "question": "“What was it like between us just now when I asked that?” Which focus does this introduce?",
+    "answer": "Immediacy explores the relationship as the client and counselor experience it in the present moment."
+  },
+  {
+    "id": "pc-phenomenological-perspective",
+    "theory": "Person-Centered",
+    "term": "Phenomenological perspective",
+    "question": "Which perspective asks what an experience is like from the inside for the person living it?",
+    "answer": "Two people may give the same event different meanings. The counselor approaches each account on its own terms."
+  },
+  {
+    "id": "pc-client-expertise",
+    "theory": "Person-Centered",
+    "term": "Client expertise",
+    "question": "Which person-centered principle explains why a client has the final say on whether a reflection fits?",
+    "answer": "The client can say whether a reflection fits and decide which concerns deserve attention."
+  },
+  {
+    "id": "pc-fully-functioning-person",
+    "theory": "Person-Centered",
+    "term": "Fully functioning person",
+    "question": "What phrase did Rogers use for someone increasingly open to experience and able to live flexibly?",
+    "answer": "It describes an evolving way of living, with greater trust in experience and freedom to respond."
+  },
+  {
+    "id": "pc-openness-to-experience",
+    "theory": "Person-Centered",
+    "term": "Openness to experience",
+    "question": "Which sign of growth appears when someone can acknowledge both pride and envy after a friend's promotion?",
+    "answer": "The person can allow a wider range of experience into awareness without forcing it into a preferred self-image."
+  },
+  {
+    "id": "pc-existential-living",
+    "theory": "Person-Centered",
+    "term": "Existential living",
+    "question": "Which quality of Rogers's fully functioning person emphasizes meeting each moment as it unfolds?",
+    "answer": "The person can respond freshly to present experience as circumstances change."
+  },
+  {
+    "id": "pc-positive-self-regard",
+    "theory": "Person-Centered",
+    "term": "Positive self-regard",
+    "question": "What term describes valuing oneself, including when one's performance disappoints?",
+    "answer": "Experiencing steady acceptance from others can make it easier to extend acceptance to oneself."
+  },
+  {
+    "id": "pc-denial-of-experience",
+    "theory": "Person-Centered",
+    "term": "Denial of experience",
+    "question": "In Rogerian theory, which defense excludes a threatening experience from awareness altogether?",
+    "answer": "A feeling incompatible with the self-concept may go unacknowledged."
+  },
+  {
+    "id": "pc-distortion-of-experience",
+    "theory": "Person-Centered",
+    "term": "Distortion of experience",
+    "question": "In Rogerian theory, which defense admits an experience into awareness but changes its meaning to fit the self-concept?",
+    "answer": "Someone convinced they never compete might recast envy as pure concern for a friend."
+  },
+  {
+    "id": "pc-tentative-language",
+    "theory": "Person-Centered",
+    "term": "Tentative language",
+    "question": "What quality of a reflection is illustrated by “I wonder whether that felt exposing”?",
+    "answer": "Presenting an impression as something to check leaves the client free to revise it."
+  },
+  {
+    "id": "pc-empathic-repair",
+    "theory": "Person-Centered",
+    "term": "Empathic repair",
+    "question": "After misnaming an emotion, a counselor welcomes the correction and explores the client's chosen word. Which response is this?",
+    "answer": "Accept the correction, use the client's word and invite more about the experience of fear."
+  },
+  {
+    "id": "pc-client-defined-goals",
+    "theory": "Person-Centered",
+    "term": "Client-defined goals",
+    "question": "A referred client wants help with loneliness while the referrer wants the client to speak up more. Which approach lets the client set the direction?",
+    "answer": "The counselor explores the referral and helps the client identify personally meaningful goals."
+  },
+  {
+    "id": "pc-cultural-humility",
+    "theory": "Person-Centered",
+    "term": "Cultural humility",
+    "question": "A counselor asks how family and community shape the client's meaning of independence. What stance does this show?",
+    "answer": "The counselor invites the client's understanding and examines assumptions about what healthy growth looks like."
+  },
+  {
+    "id": "pc-autonomy-in-decision-making",
+    "theory": "Person-Centered",
+    "term": "Autonomy in decision-making",
+    "question": "A client asks whether to end a friendship. Which principle supports exploring what each choice means to them?",
+    "answer": "The decision belongs to the client. The counselor can help them hear their preferences more clearly."
+  },
+  {
+    "id": "pc-purposeful-self-disclosure",
+    "theory": "Person-Centered",
+    "term": "Purposeful self-disclosure",
+    "question": "A counselor briefly describes a here-and-now reaction to help the client explore a difficult moment. Which response does this exemplify?",
+    "answer": "A brief disclosure should serve the client's exploration and keep attention on the client's needs."
+  },
+  {
+    "id": "pc-empathy-boundary",
+    "theory": "Person-Centered",
+    "term": "Empathy boundary",
+    "question": "What allows a counselor to resonate with grief while recognizing that the loss belongs to the client?",
+    "answer": "Maintaining a sense of separateness helps the counselor remain available and responsive."
+  },
+  {
+    "id": "pc-acceptance-with-accountability",
+    "theory": "Person-Centered",
+    "term": "Acceptance with accountability",
+    "question": "A counselor conveys care and invites a client to consider how their behavior hurt a friend. Which stance does this illustrate?",
+    "answer": "Affirm the client's worth and make space to consider the conduct, its effects and possible repair."
+  },
+  {
+    "id": "pc-humanistic-tradition",
+    "theory": "Person-Centered",
+    "term": "Humanistic tradition",
+    "question": "Which broad counseling tradition includes Rogers's emphasis on dignity, experience and growth?",
+    "answer": "Humanistic approaches foreground subjective meaning, agency and human potential."
+  },
+  {
+    "id": "pc-relational-climate",
+    "theory": "Person-Centered",
+    "term": "Relational climate",
+    "question": "Within the Rogerian model, what provides the main conditions for constructive change?",
+    "answer": "A sustained relationship marked by genuineness, empathy and acceptance supports the client's exploration."
+  },
+  {
+    "id": "pc-client-paced-closure",
+    "theory": "Person-Centered",
+    "term": "Client-paced closure",
+    "question": "A counselor offers time for the client to choose what to take away as the meeting ends. Which ending practice is this?",
+    "answer": "Offer time to name what stood out and what remains unfinished in the client's own words."
+  },
+  {
+    "id": "cb-aaron-t-beck",
+    "theory": "CBT",
+    "term": "Aaron T. Beck",
+    "question": "Which psychiatrist developed cognitive therapy through his work on depression?",
+    "answer": "Beck studied the meanings people assign to experiences and developed collaborative methods for examining those meanings."
+  },
+  {
+    "id": "cb-cognitive-model",
+    "theory": "CBT",
+    "term": "Cognitive model",
+    "question": "Which framework links the interpretation of a situation to emotional, behavioral and bodily responses?",
+    "answer": "Two students receiving identical feedback can react differently depending on what each believes it means."
+  },
+  {
+    "id": "cb-automatic-thought",
+    "theory": "CBT",
+    "term": "Automatic thought",
+    "question": "“They think I'm clueless” flashes through a trainee's mind after a pause. What kind of cognition is this?",
+    "answer": "This rapid appraisal arises with little deliberate reasoning and can be captured in the trainee's own words."
+  },
+  {
+    "id": "cb-intermediate-belief",
+    "theory": "CBT",
+    "term": "Intermediate belief",
+    "question": "“If I ask for help, people will lose respect for me.” Which level of belief is this?",
+    "answer": "Conditional assumptions, rules and attitudes can connect broader beliefs to situation-specific thoughts."
+  },
+  {
+    "id": "cb-core-belief",
+    "theory": "CBT",
+    "term": "Core belief",
+    "question": "“I am unlovable.” Which level of cognition expresses this broad conclusion about the self?",
+    "answer": "A core belief can shape interpretations across many situations and can persist despite contradictory experiences."
+  },
+  {
+    "id": "cb-cognitive-triad",
+    "theory": "CBT",
+    "term": "Cognitive triad",
+    "question": "In Beck's model of depression, what groups negative views of self, world and future?",
+    "answer": "The three themes can reinforce each other, such as “I fail,” “nothing supports me” and “it will always be this way.”"
+  },
+  {
+    "id": "cb-collaborative-empiricism",
+    "theory": "CBT",
+    "term": "Collaborative empiricism",
+    "question": "What stance treats a client's prediction as a question the client and counselor can investigate together?",
+    "answer": "Both partners examine observations, generate explanations and revise conclusions as new evidence appears."
+  },
+  {
+    "id": "cb-guided-discovery",
+    "theory": "CBT",
+    "term": "Guided discovery",
+    "question": "What process helps a client reach a fresh understanding through carefully sequenced exploration?",
+    "answer": "The therapist invites the client to gather information, reflect on it and draw a personally meaningful conclusion."
+  },
+  {
+    "id": "cb-socratic-questioning",
+    "theory": "CBT",
+    "term": "Socratic questioning",
+    "question": "“What evidence might someone with another viewpoint notice?” Which CBT method does this illustrate?",
+    "answer": "The question opens up inquiry and allows the client to evaluate their own interpretation."
+  },
+  {
+    "id": "cb-thought-record",
+    "theory": "CBT",
+    "term": "Thought record",
+    "question": "Which written tool organizes a situation, emotions, thoughts, evidence and a more balanced appraisal?",
+    "answer": "Recording a specific episode makes it easier to examine the thought and reassess its emotional impact."
+  },
+  {
+    "id": "cb-balanced-alternative-thought",
+    "theory": "CBT",
+    "term": "Balanced alternative thought",
+    "question": "After a missed deadline, which type of reappraisal could acknowledge a mistake and a path to repair?",
+    "answer": "A response such as “I missed this deadline and can propose a revised date” fits available evidence and supports action."
+  },
+  {
+    "id": "cb-behavioral-experiment",
+    "theory": "CBT",
+    "term": "Behavioral experiment",
+    "question": "A client predicts a colleague will reject a small request, then tries it and records the response. What method is this?",
+    "answer": "The client compares an explicit prediction with what actually happened."
+  },
+  {
+    "id": "cb-behavioral-activation",
+    "theory": "CBT",
+    "term": "Behavioral activation",
+    "question": "Which intervention schedules meaningful activity to interrupt withdrawal and reduced access to reinforcement?",
+    "answer": "An achievable activity can help a person reconnect with routines, pleasure or accomplishment."
+  },
+  {
+    "id": "cb-activity-monitoring",
+    "theory": "CBT",
+    "term": "Activity monitoring",
+    "question": "Which tool records what a person does and how their mood shifts through the day?",
+    "answer": "A simple time log can reveal links between activities, context, mood and energy."
+  },
+  {
+    "id": "cb-graded-task-assignment",
+    "theory": "CBT",
+    "term": "Graded task assignment",
+    "question": "A client overwhelmed by a term paper starts by opening the document and writing one heading. Which strategy is this?",
+    "answer": "The task is divided into achievable steps that increase in demand."
+  },
+  {
+    "id": "cb-exposure-hierarchy",
+    "theory": "CBT",
+    "term": "Exposure hierarchy",
+    "question": "What tool arranges feared situations by anticipated difficulty when planning exposure?",
+    "answer": "A client and clinician can use the ordered list to choose safe, relevant practice opportunities."
+  },
+  {
+    "id": "cb-safety-behavior",
+    "theory": "CBT",
+    "term": "Safety behavior",
+    "question": "During a presentation, someone reads every word from a script solely to prevent humiliation. What might maintain the fear?",
+    "answer": "The person may attribute success to the precaution and miss a chance to learn what would happen without it."
+  },
+  {
+    "id": "cb-avoidance-cycle",
+    "theory": "CBT",
+    "term": "Avoidance cycle",
+    "question": "What pattern occurs when skipping class brings immediate relief but strengthens future dread?",
+    "answer": "The short-term relief reinforces withdrawal and limits opportunities for corrective experience."
+  },
+  {
+    "id": "cb-all-or-nothing-thinking",
+    "theory": "CBT",
+    "term": "All-or-nothing thinking",
+    "question": "“Anything short of a perfect presentation is a total failure.” Which thinking pattern appears here?",
+    "answer": "The appraisal collapses a range of possible performances into two extremes."
+  },
+  {
+    "id": "cb-catastrophizing",
+    "theory": "CBT",
+    "term": "Catastrophizing",
+    "question": "“If I pause during the interview, my entire career is over.” Which bias does this illustrate?",
+    "answer": "The prediction treats an extreme outcome as likely and understates the person's capacity to cope."
+  },
+  {
+    "id": "cb-mind-reading",
+    "theory": "CBT",
+    "term": "Mind reading",
+    "question": "“My classmates are bored with me,” a student concludes without asking them. Which bias is present?",
+    "answer": "The student infers other people's private thoughts from limited information."
+  },
+  {
+    "id": "cb-fortune-telling",
+    "theory": "CBT",
+    "term": "Fortune telling",
+    "question": "“The interview will definitely go badly,” says a graduate before it starts. Which error is this?",
+    "answer": "An uncertain future outcome is treated as established fact."
+  },
+  {
+    "id": "cb-overgeneralization",
+    "theory": "CBT",
+    "term": "Overgeneralization",
+    "question": "One awkward introduction leads to “Every conversation I have will be awkward.” Which bias is this?",
+    "answer": "A conclusion from a single event is extended across many future situations."
+  },
+  {
+    "id": "cb-personalization",
+    "theory": "CBT",
+    "term": "Personalization",
+    "question": "A client assumes a coworker's quiet mood must have been caused by something the client did. Which bias fits?",
+    "answer": "The client takes personal responsibility without considering other plausible influences."
+  },
+  {
+    "id": "cb-emotional-reasoning",
+    "theory": "CBT",
+    "term": "Emotional reasoning",
+    "question": "“I feel incompetent, so I must be incompetent.” Which pattern is illustrated?",
+    "answer": "The feeling is treated as proof of an external conclusion that could be examined independently."
+  },
+  {
+    "id": "cb-discounting-the-positive",
+    "theory": "CBT",
+    "term": "Discounting the positive",
+    "question": "After receiving strong feedback, a trainee says every evaluator was simply being kind. Which bias dismisses contrary evidence?",
+    "answer": "Positive information is explained away before the person weighs it alongside other evidence."
+  },
+  {
+    "id": "cb-mental-filter",
+    "theory": "CBT",
+    "term": "Mental filter",
+    "question": "A student recalls one correction from a page of supportive feedback and overlooks everything else. Which pattern fits?",
+    "answer": "Selective attention gives a single negative detail disproportionate influence."
+  },
+  {
+    "id": "cb-labeling",
+    "theory": "CBT",
+    "term": "Labeling",
+    "question": "“I forgot an appointment, so I am a failure.” Which bias turns an event into a global identity?",
+    "answer": "The appraisal converts a specific action into a sweeping judgment about the whole person."
+  },
+  {
+    "id": "cb-rigid-should-statement",
+    "theory": "CBT",
+    "term": "Rigid should statement",
+    "question": "“A competent counselor should always know exactly what to say.” What type of thinking is this?",
+    "answer": "An absolute rule sets an unrealistic standard and leaves little room for uncertainty or learning."
+  },
+  {
+    "id": "cb-downward-arrow",
+    "theory": "CBT",
+    "term": "Downward arrow",
+    "question": "Which method repeatedly explores what a thought would mean to uncover a deeper belief?",
+    "answer": "Asking what it would mean if a feared conclusion were true can reveal assumptions beneath the initial appraisal."
+  },
+  {
+    "id": "cb-belief-rating",
+    "theory": "CBT",
+    "term": "Belief rating",
+    "question": "What measure captures how convincing a thought feels before and after reviewing evidence?",
+    "answer": "A client can estimate conviction on a consistent scale and compare ratings over time."
+  },
+  {
+    "id": "cb-agenda-setting",
+    "theory": "CBT",
+    "term": "Agenda setting",
+    "question": "Which opening task helps client and counselor decide together what deserves time in a structured CBT session?",
+    "answer": "A shared agenda keeps the work focused on priorities the client recognizes."
+  },
+  {
+    "id": "cb-action-plan",
+    "theory": "CBT",
+    "term": "Action plan",
+    "question": "What is the agreed between-session practice a client chooses to try and review?",
+    "answer": "A useful plan specifies a manageable behavior and anticipates likely obstacles."
+  },
+  {
+    "id": "cb-coping-card",
+    "theory": "CBT",
+    "term": "Coping card",
+    "question": "Which portable cue preserves a personally credible reminder for use in a difficult moment?",
+    "answer": "A concise statement or brief plan can help the client recall what they learned when emotion rises."
+  },
+  {
+    "id": "cb-problem-solving",
+    "theory": "CBT",
+    "term": "Problem solving",
+    "question": "Which intervention defines a practical issue, generates options, weighs them and tests a next step?",
+    "answer": "It is especially helpful when the difficulty involves a real and changeable obstacle."
+  },
+  {
+    "id": "cb-cognitive-conceptualization",
+    "theory": "CBT",
+    "term": "Cognitive conceptualization",
+    "question": "What individualized CBT explanation links early learning, beliefs, triggers and current maintaining patterns?",
+    "answer": "The formulation is a working hypothesis the client and therapist refine together."
+  },
+  {
+    "id": "cb-continuum-technique",
+    "theory": "CBT",
+    "term": "Continuum technique",
+    "question": "What method tests a black-and-white label by placing varied examples along a spectrum?",
+    "answer": "Rating degrees of performance can reveal meaningful differences hidden by an absolute label."
+  },
+  {
+    "id": "cb-reattribution",
+    "theory": "CBT",
+    "term": "Reattribution",
+    "question": "Which method explores multiple contributing causes when a client assumes all responsibility for an outcome?",
+    "answer": "Listing situational and interpersonal factors can support a more proportionate judgment."
+  },
+  {
+    "id": "cb-relapse-prevention-planning",
+    "theory": "CBT",
+    "term": "Relapse prevention planning",
+    "question": "Which end-of-treatment task identifies warning signs and skills to reuse during setbacks?",
+    "answer": "The client develops a personal plan for recognizing difficulties, practicing skills and seeking support."
+  },
+  {
+    "id": "cb-rebt-disputation",
+    "theory": "CBT",
+    "term": "REBT disputation",
+    "question": "In Albert Ellis's ABCDE framework, what does D stand for?",
+    "answer": "Disputation examines whether a rigid belief is logical, supported by evidence and helpful in practice."
+  },
+  {
+    "id": "cb-activating-event",
+    "theory": "CBT",
+    "term": "Activating event",
+    "question": "In the REBT ABC model, which element is the circumstance a person interprets?",
+    "answer": "A represents the event, B the person's belief about it and C the resulting emotional or behavioral consequences."
+  },
+  {
+    "id": "sf-steve-de-shazer-and-insoo-kim-berg",
+    "theory": "Solution-Focused",
+    "term": "Steve de Shazer and Insoo Kim Berg",
+    "question": "Which two clinicians are most closely associated with developing solution-focused brief therapy in Milwaukee?",
+    "answer": "They worked with colleagues at the Brief Family Therapy Center to develop the approach."
+  },
+  {
+    "id": "sf-preferred-future",
+    "theory": "Solution-Focused",
+    "term": "Preferred future",
+    "question": "What does a solution-focused counselor invite a person to describe when asking what life would look like if counseling helped?",
+    "answer": "The person's picture of a more desirable everyday life gives the conversation direction."
+  },
+  {
+    "id": "sf-best-hopes-question",
+    "theory": "Solution-Focused",
+    "term": "Best-hopes question",
+    "question": "Which opening question asks a client what they most hope will come from meeting today?",
+    "answer": "The answer helps establish a personally meaningful direction, even when a referral came from someone else."
+  },
+  {
+    "id": "sf-miracle-question",
+    "theory": "Solution-Focused",
+    "term": "Miracle question",
+    "question": "Which classic SFBT invitation asks the client to imagine waking after an overnight change and noticing its effects?",
+    "answer": "The imagined morning makes a desired difference easier to describe in everyday detail."
+  },
+  {
+    "id": "sf-exception",
+    "theory": "Solution-Focused",
+    "term": "Exception",
+    "question": "What is a time when a problem might have occurred but did not, or had less influence than usual?",
+    "answer": "Exploring an exception can uncover useful actions, circumstances or support."
+  },
+  {
+    "id": "sf-scaling-question",
+    "theory": "Solution-Focused",
+    "term": "Scaling question",
+    "question": "Which tool asks the client to locate their current experience between two personally defined anchors?",
+    "answer": "The number provides an entry point for a conversation about what it represents and what a change would look like."
+  },
+  {
+    "id": "sf-coping-question",
+    "theory": "Solution-Focused",
+    "term": "Coping question",
+    "question": "“How have you managed to keep showing up under these conditions?” What kind of inquiry is this?",
+    "answer": "It recognizes the hardship and asks about resources that helped a person endure it."
+  },
+  {
+    "id": "sf-relationship-question",
+    "theory": "Solution-Focused",
+    "term": "Relationship question",
+    "question": "“What might your brother notice if tomorrow went a little better?” Which question form does this illustrate?",
+    "answer": "Another person's viewpoint can help a client describe visible signs of change."
+  },
+  {
+    "id": "sf-pre-session-change",
+    "theory": "Solution-Focused",
+    "term": "Pre-session change",
+    "question": "What do counselors explore when asking what has improved since the client arranged the appointment?",
+    "answer": "Change may already have started before the first conversation and may reveal helpful conditions."
+  },
+  {
+    "id": "sf-positive-goal-description",
+    "theory": "Solution-Focused",
+    "term": "Positive goal description",
+    "question": "A client changes “no more arguments” to “we take turns speaking at dinner.” Which goal-writing principle does this illustrate?",
+    "answer": "Describe what will happen in its place, such as taking turns speaking during dinner."
+  },
+  {
+    "id": "sf-small-next-step",
+    "theory": "Solution-Focused",
+    "term": "Small next step",
+    "question": "A client wants to rebuild a friendship and chooses to begin by sending a brief message. Which feature of goal development is this?",
+    "answer": "Sending one personally chosen message makes the larger goal approachable and observable."
+  },
+  {
+    "id": "sf-behavioral-detail",
+    "theory": "Solution-Focused",
+    "term": "Behavioral detail",
+    "question": "A client describes confidence as walking into class and introducing themselves. What has the description gained?",
+    "answer": "Describing walking into class and introducing oneself gives the goal a concrete shape."
+  },
+  {
+    "id": "sf-client-s-own-wording",
+    "theory": "Solution-Focused",
+    "term": "Client's own wording",
+    "question": "Which language choice preserves a client's meaning when they describe wanting “a little breathing room”?",
+    "answer": "Reuse that phrase and ask how the client would recognize more breathing room during an ordinary day."
+  },
+  {
+    "id": "sf-direct-compliment",
+    "theory": "Solution-Focused",
+    "term": "Direct compliment",
+    "question": "What response explicitly identifies a demonstrated effort, such as returning to a hard conversation?",
+    "answer": "A specific, credible acknowledgment grounds encouragement in something the client actually did."
+  },
+  {
+    "id": "sf-indirect-compliment",
+    "theory": "Solution-Focused",
+    "term": "Indirect compliment",
+    "question": "“How did you find a way to make that call?” Which form of acknowledgment invites the client to identify their own competence?",
+    "answer": "The question assumes the act took effort or skill and invites the client to describe it."
+  },
+  {
+    "id": "sf-resource-exploration",
+    "theory": "Solution-Focused",
+    "term": "Resource exploration",
+    "question": "Which line of inquiry identifies people, settings and abilities that could support the preferred future?",
+    "answer": "A counselor may ask who helped previously, where the client felt capable or what they already know how to do."
+  },
+  {
+    "id": "sf-problem-free-talk",
+    "theory": "Solution-Focused",
+    "term": "Problem-free talk",
+    "question": "Why might a counselor begin by asking about a client's hobby or a satisfying part of the week?",
+    "answer": "Learning about the person beyond the presenting problem can reveal identity, competence and connection."
+  },
+  {
+    "id": "sf-solution-building",
+    "theory": "Solution-Focused",
+    "term": "Solution building",
+    "question": "Which SFBT process develops detailed accounts of desired outcomes and what already supports them?",
+    "answer": "The conversation builds a useful description with the client and looks for ways to extend it."
+  },
+  {
+    "id": "sf-exception-elaboration",
+    "theory": "Solution-Focused",
+    "term": "Exception elaboration",
+    "question": "A counselor explores who was there, what happened and what followed on an easier Tuesday. Which SFBT process is this?",
+    "answer": "Ask when the difference began, who was present and what the client did next."
+  },
+  {
+    "id": "sf-deliberate-exception",
+    "theory": "Solution-Focused",
+    "term": "Deliberate exception",
+    "question": "What type of exception occurs when a client intentionally takes an action that helps the situation go differently?",
+    "answer": "Identifying what the person chose can make repetition easier to consider."
+  },
+  {
+    "id": "sf-spontaneous-exception",
+    "theory": "Solution-Focused",
+    "term": "Spontaneous exception",
+    "question": "What type of exception does a client describe when a better evening “just happened”?",
+    "answer": "A counselor can explore its circumstances without assuming the client planned or caused it."
+  },
+  {
+    "id": "sf-lower-number-comparison",
+    "theory": "Solution-Focused",
+    "term": "Lower-number comparison",
+    "question": "A client rates progress at four. Which scale follow-up would uncover what is already supporting that rating?",
+    "answer": "The comparison highlights existing progress and what is helping to maintain it."
+  },
+  {
+    "id": "sf-one-point-improvement",
+    "theory": "Solution-Focused",
+    "term": "One-point improvement",
+    "question": "“What would a move from four to five look like during breakfast?” Which use of scaling is this?",
+    "answer": "The client translates a modest change in rating into recognizable daily behavior."
+  },
+  {
+    "id": "sf-confidence-scale",
+    "theory": "Solution-Focused",
+    "term": "Confidence scale",
+    "question": "Which kind of scale explores how sure a client feels about attempting a proposed step?",
+    "answer": "A lower rating may suggest a smaller step or additional practical support."
+  },
+  {
+    "id": "sf-personalized-anchors",
+    "theory": "Solution-Focused",
+    "term": "Personalized anchors",
+    "question": "What does a client create by explaining what both zero and ten would look like in their own life?",
+    "answer": "Ask the client to describe each endpoint so the scale reflects their language and goals."
+  },
+  {
+    "id": "sf-scaling-follow-up",
+    "theory": "Solution-Focused",
+    "term": "Scaling follow-up",
+    "question": "A counselor asks for an example after the client gives a number on a readiness scale. Which step is this?",
+    "answer": "An example gives the rating meaning that the number alone cannot convey."
+  },
+  {
+    "id": "sf-maintenance-question",
+    "theory": "Solution-Focused",
+    "term": "Maintenance question",
+    "question": "“What would help you keep this gain on a difficult week?” Which purpose does this serve?",
+    "answer": "It identifies conditions and choices that might help the client sustain progress."
+  },
+  {
+    "id": "sf-difference-question",
+    "theory": "Solution-Focused",
+    "term": "Difference question",
+    "question": "“What difference would taking the bus make once you got to work?” What is the counselor exploring?",
+    "answer": "The counselor asks why the change matters and how its effects might unfold."
+  },
+  {
+    "id": "sf-sequence-question",
+    "theory": "Solution-Focused",
+    "term": "Sequence question",
+    "question": "“After you noticed the quieter morning, what happened next?” Which prompt expands a better-day description?",
+    "answer": "Tracing events in order can reveal small links the client could otherwise overlook."
+  },
+  {
+    "id": "sf-noticing-task",
+    "theory": "Solution-Focused",
+    "term": "Noticing task",
+    "question": "What between-session invitation asks a client to observe moments they would like to see more often?",
+    "answer": "Paying attention to examples can give the next meeting concrete material to explore."
+  },
+  {
+    "id": "sf-doing-more-of-what-works",
+    "theory": "Solution-Focused",
+    "term": "Doing more of what works",
+    "question": "After a walk leads to a calmer discussion, a client chooses to repeat the walk. Which SFBT principle is being applied?",
+    "answer": "Consider repeating or extending an existing helpful action if the client judges it workable."
+  },
+  {
+    "id": "sf-trying-something-different",
+    "theory": "Solution-Focused",
+    "term": "Trying something different",
+    "question": "When an attempted solution repeatedly fails, what brief-therapy principle invites flexibility?",
+    "answer": "The client can choose a different approach and observe its effects."
+  },
+  {
+    "id": "sf-negotiated-task",
+    "theory": "Solution-Focused",
+    "term": "Negotiated task",
+    "question": "A client and therapist adapt a proposed experiment together to fit the client's schedule. What is the resulting assignment called?",
+    "answer": "The client helps decide whether the experiment is relevant and feasible and can modify or decline it."
+  },
+  {
+    "id": "sf-client-defined-endpoint",
+    "theory": "Solution-Focused",
+    "term": "Client-defined endpoint",
+    "question": "“I'll know our work here is done when I can call my sister without rehearsing for hours.” What has the client identified?",
+    "answer": "Ask how the client will know the meetings have helped enough and revisit those signs together."
+  },
+  {
+    "id": "sf-follow-up-opening",
+    "theory": "Solution-Focused",
+    "term": "Follow-up opening",
+    "question": "In a later SFBT meeting, what is the conversation starter “What's been better since our last visit?” an example of?",
+    "answer": "Ask what has been better or different, while leaving room to hear that things were difficult."
+  },
+  {
+    "id": "sf-setback-exploration",
+    "theory": "Solution-Focused",
+    "term": "Setback exploration",
+    "question": "After hearing that the week got worse, a counselor asks what helped the client get through it. What is the focus of the conversation?",
+    "answer": "Recognize the difficulty and ask what helped the person get through, or what support is needed now."
+  },
+  {
+    "id": "sf-multiple-perspectives",
+    "theory": "Solution-Focused",
+    "term": "Multiple perspectives",
+    "question": "Two partners rate their progress a five. The counselor asks each to describe what that looks like. What is the counselor making room for?",
+    "answer": "Ask each person what their rating looks like so both accounts can guide the conversation."
+  },
+  {
+    "id": "sf-voluntary-participation-within-referral",
+    "theory": "Solution-Focused",
+    "term": "Voluntary participation within referral",
+    "question": "A student must attend counseling but chooses what would make the meeting worthwhile. What possibility does this illustrate?",
+    "answer": "Ask what would make the meeting worthwhile from the student's perspective and clarify any limits on choice."
+  },
+  {
+    "id": "sf-interactional-goal",
+    "theory": "Solution-Focused",
+    "term": "Interactional goal",
+    "question": "A family wants “respect.” What type of goal describes what different family members will do with one another?",
+    "answer": "Examples such as listening until another person finishes make mutual actions visible."
+  },
+  {
+    "id": "sf-context-sensitive-change",
+    "theory": "Solution-Focused",
+    "term": "Context-sensitive change",
+    "question": "A client could leave work earlier on a better day because transport was available. What principle encourages exploring this circumstance?",
+    "answer": "External conditions may make change possible and help explain which opportunities are genuinely available."
+  },
+  {
+    "id": "sf-collaborative-session-feedback",
+    "theory": "Solution-Focused",
+    "term": "Collaborative session feedback",
+    "question": "“Which part of our conversation helped you, and what should we change next time?” What is the counselor inviting?",
+    "answer": "Ask what part of the discussion was useful and what the client would like more or less of next time."
+  },
+  {
+    "id": "rt-william-glasser",
+    "theory": "Reality Therapy",
+    "term": "William Glasser",
+    "question": "Who originated reality therapy and later presented choice theory as its explanatory framework?",
+    "answer": "Glasser emphasized human needs, relationships and evaluation of present choices."
+  },
+  {
+    "id": "rt-robert-wubbolding",
+    "theory": "Reality Therapy",
+    "term": "Robert Wubbolding",
+    "question": "Who is especially associated with organizing reality therapy practice around WDEP?",
+    "answer": "Wubbolding systematized questions about wants, doing and direction, evaluation and planning."
+  },
+  {
+    "id": "rt-choice-theory",
+    "theory": "Reality Therapy",
+    "term": "Choice theory",
+    "question": "Which model provides the theoretical foundation for reality therapy?",
+    "answer": "It describes how people seek to meet basic needs through their perceptions, relationships and behavior."
+  },
+  {
+    "id": "rt-wdep-system",
+    "theory": "Reality Therapy",
+    "term": "WDEP system",
+    "question": "Which practice framework moves through wants, doing, evaluation and planning?",
+    "answer": "The letters guide inquiry. Counselors can revisit different parts as a conversation develops."
+  },
+  {
+    "id": "rt-wants",
+    "theory": "Reality Therapy",
+    "term": "Wants",
+    "question": "In WDEP, which area explores what the client would like from a relationship or situation?",
+    "answer": "Clarifying the desired outcome gives the client a basis for evaluating current actions."
+  },
+  {
+    "id": "rt-doing-and-direction",
+    "theory": "Reality Therapy",
+    "term": "Doing and direction",
+    "question": "In WDEP, which area examines what a client is currently doing and where it is leading?",
+    "answer": "Concrete examples help connect the client's present actions to longer-term aims."
+  },
+  {
+    "id": "rt-self-evaluation",
+    "theory": "Reality Therapy",
+    "term": "Self-evaluation",
+    "question": "In WDEP, what is happening when a client considers whether repeated texts are creating the closeness they want?",
+    "answer": "The client judges how effectively their present approach serves their stated aim."
+  },
+  {
+    "id": "rt-planning-and-commitment",
+    "theory": "Reality Therapy",
+    "term": "Planning and commitment",
+    "question": "Which WDEP component follows evaluation by developing a workable action the client chooses?",
+    "answer": "The client specifies what to try, when to begin and how to review the attempt."
+  },
+  {
+    "id": "rt-quality-world",
+    "theory": "Reality Therapy",
+    "term": "Quality world",
+    "question": "What does choice theory call a person's inner collection of valued people, experiences and beliefs?",
+    "answer": "These mental pictures help represent what a satisfying life might look like for that person."
+  },
+  {
+    "id": "rt-perceived-world",
+    "theory": "Reality Therapy",
+    "term": "Perceived world",
+    "question": "Which concept describes the person's experienced version of events, shaped by their perceptions?",
+    "answer": "Two people can witness the same exchange and form very different interpretations."
+  },
+  {
+    "id": "rt-comparing-place",
+    "theory": "Reality Therapy",
+    "term": "Comparing place",
+    "question": "Which choice theory concept describes comparing present perceptions with quality-world pictures?",
+    "answer": "A mismatch can prompt attempts to bring experience closer to what the person wants."
+  },
+  {
+    "id": "rt-total-behavior",
+    "theory": "Reality Therapy",
+    "term": "Total behavior",
+    "question": "Which umbrella term includes acting, thinking, feeling and physiology in choice theory?",
+    "answer": "The model understands these components as interconnected aspects of a single response."
+  },
+  {
+    "id": "rt-acting-component",
+    "theory": "Reality Therapy",
+    "term": "Acting component",
+    "question": "Within total behavior, which component includes leaving the table during an argument?",
+    "answer": "It is the observable action the client can describe and potentially change."
+  },
+  {
+    "id": "rt-thinking-component",
+    "theory": "Reality Therapy",
+    "term": "Thinking component",
+    "question": "Within total behavior, where would the statement “They never hear me” belong?",
+    "answer": "The thought may accompany physical arousal, emotion and a decision about what to do."
+  },
+  {
+    "id": "rt-feeling-component",
+    "theory": "Reality Therapy",
+    "term": "Feeling component",
+    "question": "Within total behavior, where does the client's sense of disappointment fit?",
+    "answer": "The model distinguishes emotional experience from observable action and bodily processes."
+  },
+  {
+    "id": "rt-physiological-component",
+    "theory": "Reality Therapy",
+    "term": "Physiological component",
+    "question": "Within total behavior, which component includes a racing pulse or tense shoulders?",
+    "answer": "Bodily responses may shift alongside behavior, thought and emotion."
+  },
+  {
+    "id": "rt-direct-influence",
+    "theory": "Reality Therapy",
+    "term": "Direct influence",
+    "question": "How does Glasser characterize a person's degree of influence over intentional action in the total behavior model?",
+    "answer": "Acting and thinking are the most direct points of influence in this theoretical model."
+  },
+  {
+    "id": "rt-indirect-influence",
+    "theory": "Reality Therapy",
+    "term": "Indirect influence",
+    "question": "In the total behavior model, a change in action may affect emotion. What kind of influence on emotion does this illustrate?",
+    "answer": "Feelings and physiology can change indirectly as other components of total behavior change."
+  },
+  {
+    "id": "rt-survival-need",
+    "theory": "Reality Therapy",
+    "term": "Survival need",
+    "question": "Which of Glasser's basic needs includes food, shelter and physical safety?",
+    "answer": "Meeting essential material and physical needs can require practical and community support."
+  },
+  {
+    "id": "rt-love-and-belonging-need",
+    "theory": "Reality Therapy",
+    "term": "Love and belonging need",
+    "question": "Which basic need concerns connection, affection and membership in a valued group?",
+    "answer": "A client seeking regular contact with a trusted friend may be describing this need."
+  },
+  {
+    "id": "rt-power-need",
+    "theory": "Reality Therapy",
+    "term": "Power need",
+    "question": "In choice theory, which basic need can be expressed through achievement, competence and recognition?",
+    "answer": "Developing a skill or contributing meaningfully can satisfy the need in constructive ways."
+  },
+  {
+    "id": "rt-freedom-need",
+    "theory": "Reality Therapy",
+    "term": "Freedom need",
+    "question": "Which basic need is expressed when a client seeks greater autonomy and room to choose?",
+    "answer": "A client might value having a genuine say in how their time or work is organized."
+  },
+  {
+    "id": "rt-fun-need",
+    "theory": "Reality Therapy",
+    "term": "Fun need",
+    "question": "Which of Glasser's basic needs can be met through play, curiosity and enjoyable learning?",
+    "answer": "A student who misses drawing for pleasure may want to make room for this need."
+  },
+  {
+    "id": "rt-internal-control-orientation",
+    "theory": "Reality Therapy",
+    "term": "Internal control orientation",
+    "question": "What orientation focuses on actions a person can choose while recognizing that others make their own choices?",
+    "answer": "A client can decide how to raise a concern while accepting uncertainty about the other person's reply."
+  },
+  {
+    "id": "rt-external-control-psychology",
+    "theory": "Reality Therapy",
+    "term": "External control psychology",
+    "question": "What term does Glasser use for efforts to make other people comply through pressure or punishment?",
+    "answer": "Such efforts can damage connection even when they produce short-term compliance."
+  },
+  {
+    "id": "rt-connecting-habits",
+    "theory": "Reality Therapy",
+    "term": "Connecting habits",
+    "question": "What does choice theory call practices such as listening, supporting and negotiating differences?",
+    "answer": "These relationship practices aim to sustain contact and cooperation."
+  },
+  {
+    "id": "rt-disconnecting-habits",
+    "theory": "Reality Therapy",
+    "term": "Disconnecting habits",
+    "question": "What group of relationship habits includes blaming, threatening and nagging in Glasser's model?",
+    "answer": "These patterns can erode the connection the person may actually want."
+  },
+  {
+    "id": "rt-negotiating-differences",
+    "theory": "Reality Therapy",
+    "term": "Negotiating differences",
+    "question": "Which connecting habit is used when roommates discuss a workable compromise about quiet hours?",
+    "answer": "Each person expresses needs and works toward an arrangement both can accept."
+  },
+  {
+    "id": "rt-trusting",
+    "theory": "Reality Therapy",
+    "term": "Trusting",
+    "question": "Which connecting habit involves allowing another person room to carry out an agreement?",
+    "answer": "It can include clear agreements and respect for each person's agency."
+  },
+  {
+    "id": "rt-encouraging",
+    "theory": "Reality Therapy",
+    "term": "Encouraging",
+    "question": "Which connecting habit recognizes a person's efforts and supports their next attempt?",
+    "answer": "An example is acknowledging the courage it took to raise a sensitive topic."
+  },
+  {
+    "id": "rt-present-focus-inquiry",
+    "theory": "Reality Therapy",
+    "term": "Present-focus inquiry",
+    "question": "“When an argument starts these days, what do you do next?” Which feature of reality therapy does this illustrate?",
+    "answer": "Ask what happens now when an argument begins and what the client would like to try."
+  },
+  {
+    "id": "rt-a-controllable-plan",
+    "theory": "Reality Therapy",
+    "term": "A controllable plan",
+    "question": "What planning criterion is missing from “My sibling will apologize to me tomorrow”?",
+    "answer": "A workable plan describes the client's own action, such as requesting a conversation."
+  },
+  {
+    "id": "rt-a-measurable-plan",
+    "theory": "Reality Therapy",
+    "term": "A measurable plan",
+    "question": "Which planning criterion improves when “communicate better” becomes “ask one open question at dinner”?",
+    "answer": "A concrete action makes it easier for the client to tell whether the plan was attempted."
+  },
+  {
+    "id": "rt-an-attainable-plan",
+    "theory": "Reality Therapy",
+    "term": "An attainable plan",
+    "question": "Which criterion suggests reducing a proposed daily hour of exercise to a feasible first walk?",
+    "answer": "The client and counselor match the step to actual capacity, access and circumstances."
+  },
+  {
+    "id": "rt-an-immediate-plan",
+    "theory": "Reality Therapy",
+    "term": "An immediate plan",
+    "question": "Which planning criterion is strengthened by choosing a specific action that can begin this afternoon?",
+    "answer": "A near-term start gives the client an opportunity to put a decision into practice."
+  },
+  {
+    "id": "rt-a-consistent-plan",
+    "theory": "Reality Therapy",
+    "term": "A consistent plan",
+    "question": "Which planning quality involves repeating a useful action in a sustainable way?",
+    "answer": "Choosing a realistic routine can support practice and later self-evaluation."
+  },
+  {
+    "id": "rt-commitment-check",
+    "theory": "Reality Therapy",
+    "term": "Commitment check",
+    "question": "“Would you actually be willing to try this before we meet again?” Which planning step does this question illustrate?",
+    "answer": "Invite the client to say how ready they are and revise the plan if commitment is weak."
+  },
+  {
+    "id": "rt-plan-revision",
+    "theory": "Reality Therapy",
+    "term": "Plan revision",
+    "question": "A client's plan conflicted with their work hours. What is the collaborative process of changing its timing or scope?",
+    "answer": "Review what happened and adjust the plan with the client using the new information."
+  },
+  {
+    "id": "rt-competing-needs",
+    "theory": "Reality Therapy",
+    "term": "Competing needs",
+    "question": "A client wants both closeness and more time alone. What concept helps explain the tension?",
+    "answer": "Belonging and freedom may both matter, prompting a search for choices that honor each."
+  },
+  {
+    "id": "rt-agency-within-constraints",
+    "theory": "Reality Therapy",
+    "term": "Agency within constraints",
+    "question": "A counselor acknowledges workplace discrimination while exploring realistic choices with the client. What principle does this illustrate?",
+    "answer": "Acknowledge external barriers and harm, then explore the feasible personal and collective options the client values."
+  },
+  {
+    "id": "rt-responsible-need-satisfaction",
+    "theory": "Reality Therapy",
+    "term": "Responsible need satisfaction",
+    "question": "What goal guides a reality therapy plan when one person's chosen action affects someone else?",
+    "answer": "Consider ways of meeting needs that also respect other people's needs, agency and safety."
+  },
+  {
+    "id": "pd-sigmund-freud",
+    "theory": "Psychodynamic",
+    "term": "Sigmund Freud",
+    "question": "Who founded classical psychoanalysis, an early influence on psychodynamic therapies?",
+    "answer": "Later psychodynamic schools extended and revised Freud's ideas about conflict, defenses and relationships."
+  },
+  {
+    "id": "pd-dynamic-unconscious",
+    "theory": "Psychodynamic",
+    "term": "Dynamic unconscious",
+    "question": "Which concept concerns mental activity outside awareness that can influence feelings and actions?",
+    "answer": "A pattern may have personal meaning even when a person cannot yet put that meaning into words."
+  },
+  {
+    "id": "pd-intrapsychic-conflict",
+    "theory": "Psychodynamic",
+    "term": "Intrapsychic conflict",
+    "question": "What term describes tension between competing wishes, prohibitions, fears or loyalties within one person?",
+    "answer": "Someone may long for closeness and simultaneously fear dependence."
+  },
+  {
+    "id": "pd-defense-mechanism",
+    "theory": "Psychodynamic",
+    "term": "Defense mechanism",
+    "question": "What is a generally automatic mental operation that helps manage distress or conflict?",
+    "answer": "A defense can be useful in context and limiting when it becomes rigid."
+  },
+  {
+    "id": "pd-transference",
+    "theory": "Psychodynamic",
+    "term": "Transference",
+    "question": "A client expects disapproval from a therapist after experiences with a critical parent. Which concept may help them explore this expectation?",
+    "answer": "Feelings and expectations shaped in earlier relationships can emerge in a present one. The therapist also considers their actual behavior."
+  },
+  {
+    "id": "pd-countertransference",
+    "theory": "Psychodynamic",
+    "term": "Countertransference",
+    "question": "What term describes a therapist's emotional responses to a client, including reactions shaped by the therapist's own history?",
+    "answer": "Reflection and consultation can help the therapist understand the reaction and choose how to respond."
+  },
+  {
+    "id": "pd-free-association",
+    "theory": "Psychodynamic",
+    "term": "Free association",
+    "question": "Which analytic method invites a person to say what comes to mind, even if it seems unrelated or awkward?",
+    "answer": "Following the person's associations may reveal meaningful links that a tightly structured account would miss."
+  },
+  {
+    "id": "pd-resistance",
+    "theory": "Psychodynamic",
+    "term": "Resistance",
+    "question": "What traditional concept describes processes that interfere with exploring distressing material in treatment?",
+    "answer": "A counselor can consider the protective function and practical explanations without presuming a client's motives."
+  },
+  {
+    "id": "pd-interpretation",
+    "theory": "Psychodynamic",
+    "term": "Interpretation",
+    "question": "Which intervention proposes a possible connection among feelings, defenses and recurring relationship patterns?",
+    "answer": "A useful interpretation is tentative and open to revision in light of the client's response."
+  },
+  {
+    "id": "pd-working-through",
+    "theory": "Psychodynamic",
+    "term": "Working through",
+    "question": "What process involves revisiting an understood pattern as it appears across different situations?",
+    "answer": "Repeated emotional and relational exploration can support change beyond a first intellectual realization."
+  },
+  {
+    "id": "pd-repression",
+    "theory": "Psychodynamic",
+    "term": "Repression",
+    "question": "Which defense is traditionally described as keeping troubling material out of awareness unconsciously?",
+    "answer": "It is distinguished from a deliberate choice to set aside a concern."
+  },
+  {
+    "id": "pd-suppression",
+    "theory": "Psychodynamic",
+    "term": "Suppression",
+    "question": "Which process involves consciously postponing attention to a troubling thought?",
+    "answer": "Someone might decide to return to an upsetting disagreement once they have time and privacy."
+  },
+  {
+    "id": "pd-displacement",
+    "theory": "Psychodynamic",
+    "term": "Displacement",
+    "question": "After conflict with a supervisor, a person directs anger at a roommate. Which defense might explain the shift in target?",
+    "answer": "The emotion is expressed toward a different, potentially less threatening person."
+  },
+  {
+    "id": "pd-projection",
+    "theory": "Psychodynamic",
+    "term": "Projection",
+    "question": "Which defense describes attributing one's own difficult-to-accept feeling to someone else?",
+    "answer": "For example, someone uneasy about their own envy might readily assume a peer envies them."
+  },
+  {
+    "id": "pd-reaction-formation",
+    "theory": "Psychodynamic",
+    "term": "Reaction formation",
+    "question": "In classical theory, which defense involves expressing the opposite of an unacceptable impulse?",
+    "answer": "Exaggerated friendliness might sometimes defend against hostile feelings. The meaning requires exploration."
+  },
+  {
+    "id": "pd-rationalization",
+    "theory": "Psychodynamic",
+    "term": "Rationalization",
+    "question": "Which defense offers a plausible explanation that conceals a more uncomfortable motive?",
+    "answer": "The explanation can feel convincing to the person while protecting them from disappointment or shame."
+  },
+  {
+    "id": "pd-intellectualization",
+    "theory": "Psychodynamic",
+    "term": "Intellectualization",
+    "question": "A client analyzes the theory of loss in detail while remaining distant from their own grief. What defense might be explored?",
+    "answer": "Abstract analysis may be helping regulate contact with painful feeling."
+  },
+  {
+    "id": "pd-isolation-of-affect",
+    "theory": "Psychodynamic",
+    "term": "Isolation of affect",
+    "question": "Which defense separates a remembered experience from its associated emotion?",
+    "answer": "A person may describe an emotionally significant event while its feeling is temporarily absent."
+  },
+  {
+    "id": "pd-sublimation",
+    "theory": "Psychodynamic",
+    "term": "Sublimation",
+    "question": "Which defense involves channeling an impulse into a socially constructive activity?",
+    "answer": "A person might find a creative outlet for intense competitive or aggressive energy."
+  },
+  {
+    "id": "pd-undoing",
+    "theory": "Psychodynamic",
+    "term": "Undoing",
+    "question": "Which defense uses a symbolic thought or action to try to cancel an uncomfortable impulse or deed?",
+    "answer": "The action carries an imagined neutralizing function, which differs from taking practical steps to repair harm."
+  },
+  {
+    "id": "pd-regression",
+    "theory": "Psychodynamic",
+    "term": "Regression",
+    "question": "Which classical term describes a return under stress to an earlier mode of coping?",
+    "answer": "The clinician explores what the shift means for this person in this situation."
+  },
+  {
+    "id": "pd-splitting",
+    "theory": "Psychodynamic",
+    "term": "Splitting",
+    "question": "Which defense keeps highly positive and highly negative representations apart?",
+    "answer": "A person may struggle to hold both admired and frustrating qualities of the same relationship in mind."
+  },
+  {
+    "id": "pd-identification",
+    "theory": "Psychodynamic",
+    "term": "Identification",
+    "question": "Which process involves taking on aspects of another person's traits, values or behavior?",
+    "answer": "A learner may internalize a mentor's manner of approaching uncertainty."
+  },
+  {
+    "id": "pd-introjection",
+    "theory": "Psychodynamic",
+    "term": "Introjection",
+    "question": "What psychodynamic term describes taking another person's attitudes or qualities into one's internal world?",
+    "answer": "A once-external critical voice may later be experienced as one's own inner commentary."
+  },
+  {
+    "id": "pd-object-relations",
+    "theory": "Psychodynamic",
+    "term": "Object relations",
+    "question": "Which psychodynamic tradition emphasizes internal representations of self and significant others?",
+    "answer": "Here, an object commonly refers to a person or their internal representation."
+  },
+  {
+    "id": "pd-holding-environment",
+    "theory": "Psychodynamic",
+    "term": "Holding environment",
+    "question": "Which concept associated with Donald Winnicott describes a reliable setting that supports emotional development?",
+    "answer": "In therapy, a dependable relationship can help a person experience and explore feelings more safely."
+  },
+  {
+    "id": "pd-self-psychology",
+    "theory": "Psychodynamic",
+    "term": "Self psychology",
+    "question": "Which school associated with Heinz Kohut emphasizes cohesion of the self and empathic responsiveness?",
+    "answer": "It attends to experiences that support self-esteem, continuity and a person's sense of vitality."
+  },
+  {
+    "id": "pd-ego-psychology",
+    "theory": "Psychodynamic",
+    "term": "Ego psychology",
+    "question": "Which psychodynamic school emphasizes adaptive functions such as reality testing and regulation of impulses?",
+    "answer": "It studies psychological capacities for navigating internal demands and external circumstances."
+  },
+  {
+    "id": "pd-id",
+    "theory": "Psychodynamic",
+    "term": "Id",
+    "question": "Which part of Freud's structural model represents instinctual drives and seeks immediate satisfaction?",
+    "answer": "The id is a theoretical construct governed by the pleasure principle."
+  },
+  {
+    "id": "pd-ego",
+    "theory": "Psychodynamic",
+    "term": "Ego",
+    "question": "In Freud's structural model, which part mediates among drives, internal standards and external reality?",
+    "answer": "The ego's functions include defense, judgment and adaptation."
+  },
+  {
+    "id": "pd-superego",
+    "theory": "Psychodynamic",
+    "term": "Superego",
+    "question": "Which part of the Freudian structural model represents internalized ideals and prohibitions?",
+    "answer": "It contributes to conscience and standards against which a person judges themselves."
+  },
+  {
+    "id": "pd-manifest-dream-content",
+    "theory": "Psychodynamic",
+    "term": "Manifest dream content",
+    "question": "In classical dream theory, what term describes the storyline a dreamer remembers?",
+    "answer": "The dreamer's report provides the material from which personal associations may develop."
+  },
+  {
+    "id": "pd-latent-dream-content",
+    "theory": "Psychodynamic",
+    "term": "Latent dream content",
+    "question": "In classical dream theory, what term describes the underlying meaning inferred through associations?",
+    "answer": "This historical framework treats meaning as something to explore with the dreamer rather than read from a universal code."
+  },
+  {
+    "id": "pd-repetition-compulsion",
+    "theory": "Psychodynamic",
+    "term": "Repetition compulsion",
+    "question": "Which classical concept describes recurring reenactment of familiar, sometimes painful patterns?",
+    "answer": "A client may notice that a similar relational dilemma appears in different settings."
+  },
+  {
+    "id": "pd-therapeutic-frame",
+    "theory": "Psychodynamic",
+    "term": "Therapeutic frame",
+    "question": "What term describes the agreed structure of meetings, roles, boundaries and practical arrangements?",
+    "answer": "A consistent frame can support trust and make changes in the relationship available for discussion."
+  },
+  {
+    "id": "pd-supportive-intervention",
+    "theory": "Psychodynamic",
+    "term": "Supportive intervention",
+    "question": "Which type of psychodynamic intervention strengthens coping or stability through validation and practical support?",
+    "answer": "Its immediate purpose is to sustain functioning and help the person manage experience."
+  },
+  {
+    "id": "pd-expressive-intervention",
+    "theory": "Psychodynamic",
+    "term": "Expressive intervention",
+    "question": "Which type of psychodynamic intervention brings a previously unrecognized relationship pattern into discussion?",
+    "answer": "An interpretation can help a client explore the meaning of a familiar response."
+  },
+  {
+    "id": "pd-affect-focus",
+    "theory": "Psychodynamic",
+    "term": "Affect focus",
+    "question": "Which emphasis invites a client to notice the feeling emerging while recounting an interaction?",
+    "answer": "Attention to emotion can deepen understanding beyond a factual account."
+  },
+  {
+    "id": "pd-alliance-rupture",
+    "theory": "Psychodynamic",
+    "term": "Alliance rupture",
+    "question": "What term describes strain in the working relationship, such as feeling misunderstood after a therapist's comment?",
+    "answer": "The therapist can invite feedback, acknowledge their contribution and work toward repair."
+  },
+  {
+    "id": "pd-mentalization",
+    "theory": "Psychodynamic",
+    "term": "Mentalization",
+    "question": "What capacity involves recognizing that thoughts, feelings and intentions may underlie one's own and others' actions?",
+    "answer": "Mentalizing includes curiosity and awareness that another person's inner experience cannot be known with certainty."
+  },
+  {
+    "id": "pd-termination-themes",
+    "theory": "Psychodynamic",
+    "term": "Termination themes",
+    "question": "In psychodynamic therapy, how are issues of separation, loss and gains understood when a course of treatment is ending?",
+    "answer": "Feelings about separation, gains, unfinished work and earlier endings can all enter the conversation."
+  }
+]
